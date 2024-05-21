@@ -1,0 +1,19 @@
+{
+  "name": "rescript-parser",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "res:build": "rescript",
+    "res:clean": "rescript clean",
+    "res:dev": "rescript -w"
+  },
+  "keywords": [
+    "rescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@rescript/core": "^1.3.0",
+    "rescript": "^11.1.0"
+  }
+}
